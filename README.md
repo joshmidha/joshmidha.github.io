@@ -9,9 +9,9 @@ We then study the community, noting patterns, behaviors and activity peaks. As p
 Our interventions are carefully layed out, organized, deployed. This is online protest. 
 
 Counts as of December 27, 2022:
-| Tweets  | Users Affected | Chambers |
-| ------- | ---------------|----------|
-|   122   |       5424     |    13    |
+- Tweets: 122
+- Users Affected: 5424
+- Chambers: 13
 
 [Join our mailing list to support the action.](https://forms.gle/vvDFFCugFSUw7hA77)
 
