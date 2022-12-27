@@ -18,10 +18,10 @@ Counts as of December 27, 2022:
 ***
 Language: Python and R
 
-Packages: `syuzhet`, `igraph`, `rtweet`, `NLTK`, `snscrape`, `networkX`, `PyPi`
+Packages: `syuzhet`, `igraph`, `rtweet`, `nltk`, `snscrape`, `networkX`, `pypi`, `tweepy`
 
-Academic Basis: [Smith *et al*., 2020](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters); [Midha, 2022](https://arxiv.org/abs/2212.12955); [Boutyline & Willer, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12337).
+Academic Basis: [Smith *et al*. 2020](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters); [Midha 2022](https://arxiv.org/abs/2212.12955); [Boutyline & Willer 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12337).
 
 ***
 
-_On legality, Veritas is an agent and user of Twitter. Exercising its freedom of speech and highlighting discussion forums across the platform. All users, even those within communities of interest, are treated as IDs and we follow the Twitter API conduct of anonymity and publication. Veritas is a term being used to represent the actions of a set group of Tweeters acting on their own free will._
+_On legality, Veritas is a user of Twitter. Exercising its freedom of speech and highlighting discussion forums across the platform. All users, even those within communities of interest, are treated as IDs and we follow the Twitter API conduct of anonymity and publication. Veritas is a term being used to represent the actions of a set group of Tweeters acting on their own free will._
