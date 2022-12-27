@@ -20,7 +20,7 @@ Language: Python and R
 
 Packages: `syuzhet`, `igraph`, `rtweet`, `NLTK`, `snscrape`, `networkX`, `PyPi`
 
-Academic Basis: [Smith *et al*., 2020](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters), [Midha, 2022](https://arxiv.org/abs/2212.12955), [Boutyline & Willer, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12337)
+Academic Basis: [Smith *et al*., 2020](https://www.pewresearch.org/internet/2014/02/20/mapping-twitter-topic-networks-from-polarized-crowds-to-community-clusters); [Midha, 2022](https://arxiv.org/abs/2212.12955); [Boutyline & Willer, 2016](https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12337).
 
 ***
 
